@@ -12,11 +12,27 @@ Turmas: DS4P12, DS4Q12, TI4P12.
 
 2o. Horário: Laboratório (Python)
 
-|  DATA  | Descrição
-|--------|--------
-| 05.fev | Apresentação da disciplina, exercícios, métodos de avaliação, formato das avaliações e apresentação. [Ementa](https://docs.google.com/document/d/1vFPFfgNAzg1vWKP5CtdRwH-zWN9ABiXK/view)
-| 05.fev | Aula 01 - Introdução e Sistemas dicotômicos
-| 12.fev | Aula 02 - Operações lógicas sobre proposições e Construção da tabela-verdade 
-| 19.fev | Aula 03 - Relações de implicação e de equivalência 
-| 26.fev | Aula 04 - Argumento válido 
-|
+|  DATA  | Descrição / Matéria Lecionada | Materiais 
+|--------|--------|--------
+| 05.fev | Apresentação sobre a disciplina, exercícios, métodos de avaliação, formato das avaliações e apresentação. | [Ementa](https://docs.google.com/document/d/1vFPFfgNAzg1vWKP5CtdRwH-zWN9ABiXK/view)
+| 05.fev | Aula 01 - História da lógica e da computação; Classificação da lógica e definições básicas; Sistemas dicotômicos: Introdução; Interruptores; Conjuntos e Proposições. | Slides Exercícios
+| 12.fev | Aula 02 - Operações lógicas sobre proposições: Negação, Conjunção, Disjunção inclusiva ou soma lógica, Disjunção exclusiva, Condicional, Bicondicional; Construção da tabela-verdade: Tautologias, Contradições e Contingências. | Slides Exercícios
+| 19.fev | Aula 03 - Relações de implicação e de equivalência: Definições, Relação de implicação, Relação de equivalência, Equivalências notáveis e Propriedades. | Slides Exercícios
+| 26.fev | Aula 04 - Argumento válido: Definição e Regras de inferência. | Slides Exercícios
+| 05.mar | Técnicas dedutivas: Prova direta, Prova condicional, Prova bicondicional, Prova indireta ou por redução ao absurdo e Prova indireta de forma condicional. | Slides Exercícios
+| 12.mar | Fluxogramas. | Slides Exercícios
+| 19.mar | Exercicios
+| 26.mar | Exercícios de revisão. | Slides Exercícios
+| 02.abr | Avaliação NP1
+| 09.abr | Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | Slides Exercícios
+| 16.abr | Introdução à álgebra de Boole: Operador binário, Propriedades das operações e  Sistemas algébricos. | Slides Exercícios
+| 23.abr | Funções booleanas. | Slides Exercícios
+| 30.abr | Representação das funções booleanas: Diagramas de Venn ou círculos de Euler, Tabelas-verdade, Representação geométrica. | Slides Exercícios
+| 07.mai | Formas normais: Forma normal a n variáveis, Forma normal disjuntiva, Forma normal conjuntiva, Funções na forma binária e Funções na forma decimal. | Slides Exercícios
+| 14.mai | Exercícios de revisão. | Slides Exercícios
+| 21.mai | Avaliação NP2
+| 28.mai | Avaliação SUB
+| 04.jun | Feriado (Corpus Christi)
+| 11.jun | Correção das provas
+| 18.jun | Exame
+| 25.jun | Encerramento
