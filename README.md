@@ -20,8 +20,8 @@ Turmas: DS4P12, DS4Q12, TI4P12.
 | 19.fev | Aula 03 - Revisão das aulas 1 e 2 | [Tabela ASCII](https://www.asciitable.com) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula03_exercicio.pdf)
 | 26.fev | Aula 04 - Relações de implicação e de equivalência: Definições, Relação de implicação, Relação de equivalência, Equivalências notáveis e Propriedades. | [Slides](https://github.com/profturatti/logica/blob/main/files/aula4_tema5_slides.zip) [Exercícios]() [Respostas](https://github.com/profturatti/logica/blob/main/files/aula04_tema05_respostas.pdf)
 | 05.mar | Aula 05 - Argumento válido: Definição e Regras de inferência; Técnicas dedutivas: Prova direta, Prova condicional, Prova bicondicional, Prova indireta ou por redução ao absurdo e Prova indireta de forma condicional. | [Slides](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_slides.zip) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_exercicios.pdf) [Respostas](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_exercicios_gabarito.pdf)
-| 12.mar | Aula 06 - Fluxogramas. | Slides [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula06_logica.pdf)
-| 19.mar | Exercicios
+| 12.mar | Aula 06 - Fluxogramas. | [Slides](https://github.com/profturatti/logica/blob/main/files/aula06_slides.zip) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula06_logica.pdf)
+| 19.mar | Aula 07 - Exercicios Fluxogramas (Projeto) | [Exercício](https://github.com/profturatti/logica/blob/main/files/aula06_exerc%C3%ADcio.pdf)
 | 26.mar | Exercícios de revisão. | Slides Exercícios
 | 02.abr | Avaliação NP1
 | 09.abr | Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | Slides Exercícios
