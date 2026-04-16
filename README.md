@@ -25,7 +25,7 @@ Turmas: DS4P12, DS4Q12, TI4P12.
 | 26.mar | Aula 08 - Exercícios de revisão. | Slides Exercícios
 | 02.abr | Aula 09 - Atividade Complementar | 
 | 09.abr | Avaliação NP1 |
-| 16.abr | aula 10 - Revisão NP1; Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | Slides Exercícios
+| 16.abr | aula 10 - Revisão NP1; Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | [Slides/Teoria](https://github.com/profturatti/logica/blob/main/files/aula10_logica.pdf) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula10_logica_exercicios.pdf)
 | 23.abr | Introdução à álgebra de Boole: Operador binário, Propriedades das operações e  Sistemas algébricos. Funções booleanas. | Slides Exercícios
 | 30.abr | Representação das funções booleanas: Diagramas de Venn ou círculos de Euler, Tabelas-verdade, Representação geométrica. | Slides Exercícios
 | 07.mai | Formas normais: Forma normal a n variáveis, Forma normal disjuntiva, Forma normal conjuntiva, Funções na forma binária e Funções na forma decimal. | Slides Exercícios
