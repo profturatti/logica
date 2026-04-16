@@ -22,11 +22,11 @@ Turmas: DS4P12, DS4Q12, TI4P12.
 | 05.mar | Aula 05 - Argumento válido: Definição e Regras de inferência; Técnicas dedutivas: Prova direta, Prova condicional, Prova bicondicional, Prova indireta ou por redução ao absurdo e Prova indireta de forma condicional. | [Slides](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_slides.zip) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_exercicios.pdf) [Respostas](https://github.com/profturatti/logica/blob/main/files/aula05_temas6e7_exercicios_gabarito.pdf)
 | 12.mar | Aula 06 - Fluxogramas. | [Slides](https://github.com/profturatti/logica/blob/main/files/aula06_slides.zip) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula06_logica.pdf)
 | 19.mar | Aula 07 - Exercicios Fluxogramas (Projeto) | [Exercício](https://github.com/profturatti/logica/blob/main/files/aula06_exerc%C3%ADcio.pdf)
-| 26.mar | Exercícios de revisão. | Slides Exercícios
-| 02.abr | Avaliação NP1
-| 09.abr | Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | Slides Exercícios
-| 16.abr | Introdução à álgebra de Boole: Operador binário, Propriedades das operações e  Sistemas algébricos. | Slides Exercícios
-| 23.abr | Funções booleanas. | Slides Exercícios
+| 26.mar | Aula 08 - Exercícios de revisão. | Slides Exercícios
+| 02.abr | Aula 09 - Atividade Complementar | 
+| 09.abr | Avaliação NP1 |
+| 16.abr | aula 10 - Revisão NP1; Quantificações: Sentença aberta, Quantificador universal, Quantificador existencial, Valores lógicos de sentenças quantificadas e Negação de sentenças quantificadas. | Slides Exercícios
+| 23.abr | Introdução à álgebra de Boole: Operador binário, Propriedades das operações e  Sistemas algébricos. Funções booleanas. | Slides Exercícios
 | 30.abr | Representação das funções booleanas: Diagramas de Venn ou círculos de Euler, Tabelas-verdade, Representação geométrica. | Slides Exercícios
 | 07.mai | Formas normais: Forma normal a n variáveis, Forma normal disjuntiva, Forma normal conjuntiva, Funções na forma binária e Funções na forma decimal. | Slides Exercícios
 | 14.mai | Exercícios de revisão. | Slides Exercícios
