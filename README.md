@@ -29,7 +29,7 @@ Turmas: DS4P12, DS4Q12, TI4P12.
 | 23.abr | Aula 11 - Introdução à álgebra de Boole: Operador binário, Propriedades das operações e  Sistemas algébricos. Funções booleanas. | Slides/[Teoria](https://github.com/profturatti/logica/blob/main/files/aula11_logica.pdf) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula11_logica_exercicios.pdf)
 | 30.abr | Aula 12 - Representação das funções booleanas: Diagramas de Venn ou círculos de Euler, Tabelas-verdade, Representação geométrica. | Slides/[Teoria](https://github.com/profturatti/logica/blob/main/files/aula12_logica.pdf) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula12_logica_exercicios.pdf)
 | 07.mai | Aula 13 - Formas normais: Forma normal a n variáveis, Forma normal disjuntiva, Forma normal conjuntiva, Funções na forma binária e Funções na forma decimal. | Slides/[Teoria](https://github.com/profturatti/logica/blob/main/files/aula13_logica.pdf) [Exercícios](https://github.com/profturatti/logica/blob/main/files/aula13_logica_questoes.pdf)
-| 14.mai | Aula 14 - Exercícios de revisão. | 
+| 14.mai | Aula 14 - Exercícios de revisão. | [Resumo](https://github.com/profturatti/logica/blob/main/files/aula14_resumo_logica.png)
 | 21.mai | Avaliação NP2
 | 28.mai | Avaliação SUB
 | 04.jun | Feriado (Corpus Christi)
